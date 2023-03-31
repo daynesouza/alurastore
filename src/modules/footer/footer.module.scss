@@ -1,6 +1,8 @@
+@import "styles/_variaveis.scss";
+
 /*Footer*/
 .footer{
-    background-color: var(--home__footer--backgroundColor);
+    background-color: $footer--backgroundColor;
     height: 25vh;
     display: flex;
     flex-direction: column;

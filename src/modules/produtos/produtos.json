@@ -56,7 +56,7 @@
         "id": 6,
         "category": {
           "id": 3,
-          "label": "masculino Infantil"
+          "label": "Infantil"
         }
     },
     {
@@ -76,7 +76,7 @@
         "id": 8,
         "category": {
           "id": 2,
-          "label": "masculino Feminino"
+          "label": "Feminino"
         }
     },
     {

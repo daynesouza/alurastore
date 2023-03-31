@@ -1,7 +1,7 @@
 import s from 'Home.module.scss';
 import Footer from 'modules/footer/Footer';
 import Header from 'modules/header/Header';
-import Main from 'modules/main/Main';
+import Main from 'modules/main';
 
 export default function Home(){
     return(
